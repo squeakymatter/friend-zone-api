@@ -1,0 +1,23 @@
+{
+  "name": "friend-zone-api",
+  "version": "1.0.0",
+  "description": "API for social network using NoSQL database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squeakymatter/friend-zone-api.git"
+  },
+  "author": "michelle w (a-z)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squeakymatter/friend-zone-api/issues"
+  },
+  "homepage": "https://github.com/squeakymatter/friend-zone-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
